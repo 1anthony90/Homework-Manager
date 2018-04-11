@@ -1,0 +1,6 @@
+#TYPE System.Management.Automation.PSCustomObject
+"Name","DueDate","Notes"
+"Homework Example1","4/25/2018","Somthing about the assignment"
+"Homework Example2","4/25/2018","Somthing about the assignment"
+"Homework Example3","4/28/2018","Somthing about the assignment"
+"Homework Example4","4/27/2018","Somthing about the assignment"
